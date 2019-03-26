@@ -3361,7 +3361,7 @@ input, select, textarea {
 			opacity: 1;
 			margin: 0 0 1.3em 0;
 		}
-
+/*removed diamond icon , replaced with pic*/
 			#banner .logo .icon {
 				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
@@ -3372,6 +3372,9 @@ input, select, textarea {
 				line-height: 2.25em;
 				text-align: center;
 				width: 2.25em;
+				/* background: url('images/logo.ico');
+				background-repeat: no-repeat; */
+				
 			}
 
 		#banner h2 {
